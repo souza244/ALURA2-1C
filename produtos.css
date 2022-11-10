@@ -1,17 +1,17 @@
 header {
 	background: #BBBBBB;
+	padding: 20px 0;
 }
 
-.caixa{
-    position: relative;
-    width: 700px;
-    margin: 0 auto;
-
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
 }
 
 nav {
 	position: absolute;
-	top: 130px;
+	top: 110px;
 	right: 0;
 }
 
@@ -26,4 +26,29 @@ nav a {
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+}
+
+.produtos {
+	width: 990px;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.produtos li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+
+.produto-preco{
+	
+}
+
+
+
 }
